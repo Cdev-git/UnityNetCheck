@@ -1,7 +1,8 @@
 ﻿# UnityNetCheck
 ## The best tool for checking .NET versions on Unity games or external programs.
 
-![img.png](img.png)
+<img width="996" height="626" alt="image" src="https://github.com/user-attachments/assets/e9624aa8-95be-4f75-8ab2-14cf2d84e1fb" />
+
 
 ## What does this tool do? This tool automatically scans all your Steam-apps for any Unity games, then it gives you the backend (Mono, or IL2CPP) and the .NET version for modding and other stuff, and more useful info.
 
@@ -11,5 +12,6 @@
 ## Search bar just lets you search stuff like H3VR
 
 # Click on games to view all their info or just look at the sidebar
-![img_1.png](img_1.png)
+<img width="274" height="531" alt="image" src="https://github.com/user-attachments/assets/9785819e-9a50-4665-b11d-e8953e9f0993" />
+
 # Made by Cdev with love :)
